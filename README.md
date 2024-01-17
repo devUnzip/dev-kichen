@@ -27,6 +27,6 @@ This project is licensed under the MIT License - see the [LICENSE](link-to-licen
 
 ## Resources
 
-- [Live Demo](link-to-live-demo)
+- [Live Demo](https://dev-kichen.vercel.app)
 
 Feel free to fork the repository and adapt it to suit your needs. Happy coding!
